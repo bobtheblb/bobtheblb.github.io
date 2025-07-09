@@ -10,7 +10,7 @@ body {
   padding: 2rem;
   align-items: center;
   gap: 5rem;
-  border: 2px solid #333;
+  border-bottom: 2px solid #8e8e8e;
 }
 
 .logo {
