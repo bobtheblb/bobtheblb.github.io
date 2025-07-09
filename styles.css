@@ -28,7 +28,7 @@ body {
 }
 
 .nav-links a {
-  color: rgba(255, 255, 255, 0.478);
+  color: rgb(255, 255, 255);
   text-decoration: none;
   transition: color 0.3s ease;
 }
