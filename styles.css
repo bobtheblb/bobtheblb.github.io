@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  background-color: #1e8ebe;
+  background-color: #4cb5e3;
   display: flex;
   justify-content: flex-start;
   padding: 1rem;
@@ -13,13 +13,12 @@ body {
 }
 
 .logo {
-  color: rgba(0, 0, 0, 0.478);
+  color: rgb(255, 255, 255);
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 .nav-links {
-  color: rgba(0, 0, 0, 0.478);
   list-style: none;
   display: flex;
   gap: 5rem;
