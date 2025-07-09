@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  background-color: #4cb5e3;
+  background-color: #ffffff;
   display: flex;
   justify-content: flex-start;
   padding: 1rem;
@@ -13,7 +13,7 @@ body {
 }
 
 .logo {
-  color: rgb(255, 255, 255);
+  color: rgb(126, 126, 126);
   font-size: 1.5rem;
   font-weight: bold;
 }
@@ -27,11 +27,11 @@ body {
 }
 
 .nav-links a {
-  color: rgb(255, 255, 255);
+  color: rgb(126, 126, 126);
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .nav-links a:hover {
-  color: #ff9800;
+  color: rgb(57, 57, 57);
 }
