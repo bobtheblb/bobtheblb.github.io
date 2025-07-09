@@ -13,11 +13,13 @@ body {
 }
 
 .logo {
+  color: rgba(255, 255, 255, 0.478);
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 .nav-links {
+  color: rgba(255, 255, 255, 0.478);
   list-style: none;
   display: flex;
   gap: 5rem;
