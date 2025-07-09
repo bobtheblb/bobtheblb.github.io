@@ -4,8 +4,8 @@ body {
 }
 
 .navbar {
-  background-color: #38b6dc;
-  color: white;
+  background-color: #ffffff;
+  color: rgba(255, 255, 255, 0.37);
   display: flex;
   justify-content: flex-start;
   padding: 1rem;
