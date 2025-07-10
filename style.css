@@ -36,3 +36,8 @@ body {
 .nav-links a:hover {
   color: rgb(57, 57, 57);
 }
+
+.main {
+  display: flex;
+  justify-content: center;
+}
