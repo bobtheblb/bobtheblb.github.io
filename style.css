@@ -61,11 +61,12 @@ body {
 }
 
 .intro-text-main {
-  font-size: x-large;
+  font-size: 20rem;
+  font-weight: 800;
   color: #8e8e8e;
 }
 
 .intro-text-body{
-  font-size: small;
+  font-size: 8rem;
   color: black 
 }
