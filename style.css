@@ -47,7 +47,7 @@ body {
 }
 
 .photo-frame {
-  border: 10px solid rgb(123, 123, 123);
+  border: 5px solid rgb(176, 176, 176);
   width: fit-content
 }
 
@@ -58,4 +58,14 @@ body {
 
 .intro-text {
   width: 40rem;
+}
+
+.intro-text-main {
+  font-size: x-large;
+  color: #8e8e8e;
+}
+
+.intro-text-body{
+  font-size: small;
+  color: black 
 }
