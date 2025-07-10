@@ -40,9 +40,9 @@ body {
 .main {
   display: flex;
   justify-content: flex-start;
+  padding: 3rem
 }
 
 .photo-frame {
-  margin: 2rem;
-  border: 2px solid rgb(53, 210, 242)
+  border: 10px solid rgb(123, 123, 123)
 }
