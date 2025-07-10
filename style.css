@@ -46,9 +46,14 @@ body {
 }
 
 .photo-frame {
-  border: 10px solid rgb(123, 123, 123)
+  border: 10px solid rgb(123, 123, 123);
+  width: fit-content
 }
 
 .photo {
   height: 25rem
+}
+
+.intro-text {
+  color: blue;
 }
