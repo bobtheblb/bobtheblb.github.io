@@ -41,6 +41,7 @@ body {
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
+  align-items: center;
   gap: 1rem;
   padding: 3rem
 }
@@ -51,7 +52,8 @@ body {
 }
 
 .photo {
-  height: 25rem
+  height: 25rem;
+  display: block;
 }
 
 .intro-text {
