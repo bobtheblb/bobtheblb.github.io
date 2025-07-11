@@ -67,10 +67,12 @@ body {
   font-size: 3rem;
   font-weight: 400;
   color: #8e8e8e;
-  line-height: 1rem;
+  line-height: 0.5rem;
 }
 
 .intro-text-body{
+
   font-size: 1rem;
-  color: black 
+  line-height: 0.2rem;
+  color: rgb(85, 85, 85) 
 }
