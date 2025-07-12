@@ -64,11 +64,14 @@ body {
 }
 
 .intro-text-main {
+  font-size: 3rem;
+  font-weight: 400;
   color: #8e8e8e;
+  margin: 1rem;
 }
 
 .intro-text-body{
-
   font-size: 1rem;
-  color: rgb(85, 85, 85) 
+  color: rgb(85, 85, 85);
+  margin: 0;
 }
