@@ -56,7 +56,7 @@ body {
 }
 
 .quick-links-frame {
-  border: 5px solid rgb(176, 176, 176);
+  border: 2px solid rgb(176, 176, 176);
   width: fit-content;
   display: flex;
   justify-content: flex-start;
