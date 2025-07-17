@@ -45,6 +45,12 @@ body {
   padding: 3rem
 }
 
+.photo-links-frame {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
 .photo-frame {
   border: 5px solid rgb(176, 176, 176);
   width: fit-content
