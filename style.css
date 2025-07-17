@@ -55,6 +55,14 @@ body {
   display: block;
 }
 
+.quick-links-frame {
+  border: 5px solid rgb(176, 176, 176);
+  width: fit-content;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
 .intro-text {
   display: flex;
   justify-content: flex-start;
