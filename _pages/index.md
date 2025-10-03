@@ -1,5 +1,6 @@
 ---
-permalink: /about/
+layout: home
+permalink: /
 title: "Hi! My name is Kevin."
 ---
 
