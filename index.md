@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /
 title: "Hi! My name is Kevin."
 author_profile: true
